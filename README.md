@@ -50,7 +50,7 @@
 > 온라인 병원 예약 및 개인 건강 관리 서비스
 
 - 
-[🔗 자세히 보기](https://github.com/your-username/hospital-reservation)
+[🔗 자세히 보기](OnCare/README.md)
 
 ---
 
