@@ -110,7 +110,7 @@
 ## 📫 Contact
 
 - 📧 Email: hwakyung5531@gmail.com
-- 📁 Resume: [PDF](https://drive.google.com/file/d/1MZ9bMS_4O-UQrQ58qJOgtQ-NHqEuQhQm/view?usp=drive_link)
+- 📁 Resume: [PDF](https://drive.google.com/file/d/16E6jb7i7nHtZ3RTh5fzu7tP0Okuv6pdb/view?usp=sharing)
 
 <br /><br />
 
