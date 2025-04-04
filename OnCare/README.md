@@ -3,11 +3,7 @@
 </br>
 
 - [📘 프로젝트 개요](#📘-프로젝트-개요)
-  - [🕑 프로젝트 기간](#🕑-프로젝트-기간)
-  - [💁 팀원 소개](#💁-팀원-소개)
-  - [🏅 배경 및 기대효과](#🏅-배경-및-기대효과)
-  - [🪄 주요 기능](#🪄-주요-기능)
-- [✔ 팀원 역할 분배](#✔-팀원-역할-분배)
+- [🧑‍💻 팀원 역할 분배](#🧑‍💻-팀원-역할-분배)
 - [🛠️ 주요 기술](#️🛠️-주요-기술)
 - [📊 ERD](#📊-erd)
 - [🏛️ 시스템 아키텍쳐](#🏛️-시스템-아키텍쳐)
@@ -25,14 +21,14 @@
 ### 💁 팀원 소개
 |팀장|팀원|팀원|
 |:---:|:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/1892518a-6933-4979-b839-a3c9a56afa2b" width="100" /> | <img src="https://github.com/user-attachments/assets/4c7a54e4-d592-4c73-9865-fbc1e8adae28" width="100" /> | <img src="https://github.com/user-attachments/assets/a2b975d0-217a-48d1-8508-770256574b5d" width="100" /> |
+|![image](https://github.com/hwakyung99.png)|![image](https://github.com/jjoool.png)|![image](https://github.com/bright-cha.png)|
 |[이화경](https://github.com/hwakyung99)|[김정은](https://github.com/jjoool)|[차현철](https://github.com/bright-cha)|
 
 </br>
 
 ### 🏅 배경 및 기대효과
-- CES 2025의 핵심 키워드로 '디지털 헬스케어' 선정</br>
-- 글로벌 트렌드에 발맞춰 디지털 헬스케어 시장의 급성장과 증가하는 수요에 선제적 대응</br>
+**배경**
+- CES 2025의 핵심 키워드로 '디지털 헬스케어' 선정, 글로벌 트렌드에 발맞춰 디지털 헬스케어 시장의 급성장과 증가하는 수요에 선제적 대응</br>
 - 기존 병원 예약 시스템의 불편함을 해소하고 사용자 중심의 개인 맞춤형 건강 관리 서비스 제공 필요</br>
 
 > "기존 예약 시스템이 너무 불편하고 복잡해요. 더 간편하고 내게 맞는 건강 관리 서비스는 없을까요?"</br>
@@ -50,27 +46,46 @@
 </br>
 
 ### 🪄 주요 기능
-**1. 병원 찾기**
-**2. 온라인 병원 예약**
-**3. 실시간 채팅**
-**4. 건강 검진 결과 시각화**
+- **병원 찾기**
+- **온라인 병원 예약**
+- **실시간 채팅**
+- **건강 검진 결과 시각화**
 
 </br>
 
-## ✔ 팀원 역할 분배
+## 🧑‍💻 팀원 역할 분배
 ![image](<readme_assets/팀원 역할.png>)
 
 </br>
 
 ## 🛠️ 주요 기술
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-59666C?style=flat)
+
 
 **Backend**
-- Spring Boot, Spring Data JPA, Mybatis, MongoDB Atlas
-- AWS EC2, ACM, Route53, ALB, S3, RDS, Nginx, Jenkins, GitHub Action, Gabia
-- Git, GitHub, Notion
 
-**Frontend**
-- React, React Router, Zustand, Axios, Tailwind CSS
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+![Mybatis](https://img.shields.io/badge/Mybatis-59666C?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white)
+![AWS ACM](https://img.shields.io/badge/AWS_ACM-FF9900?style=flat&logoColor=white)
+![Amazon Route 53](https://img.shields.io/badge/Amazon_Route_53-8C4FFF?style=flat&logo=AmazonRoute53&logoColor=white)
+![AWS ALB](https://img.shields.io/badge/AWS_ALB-8C4FFF?style=flat&logo=awselasticloadbalancing&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=AmazonS3&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 
 </br>
 
