@@ -18,8 +18,8 @@ jobs:
       # 2) Git 사용자 정보 설정
       - name: Set up Git config
         run: |
-          git config user.name "hwakyung99"
-          git config user.email "hwakyung5531@gmail.com"
+          git config --global user.name "hwakyung99"
+          git config --global user.email "hwakyung5531@gmail.com"
 
       # 3) 타겟 저장소(JachuiPlan) 복제 후 README.md 복사/커밋/푸시
       - name: Clone target repository and sync README
