@@ -9,8 +9,9 @@
 
 <p>
   <a href="https://solved.ac/hwakyung99">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" alt="solved.ac badge" style="height: 9vw; margin-right:10px;"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" alt="solved.ac badge" style="height: 9vw;"/>
   </a>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=hwakyung99&count_private=true&show_icons=true" alt="git stats" style="height: 9vw;"/>
 </p>
 
