@@ -98,4 +98,3 @@
 ### 📍 게시글 좋아요
 ![image](<readme_assets/좋아요.png>)
 </br>
-
