@@ -1,22 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
 
 
-### 👋 About Me
+## 👋 About Me
 > 사용자에 의한, 사용자를 위한 더 나은 서비스를 만드는 주니어 개발자입니다. 
 
 - 💻 
 - 🌱
 
-<p align="center">
 <a href="https://solved.ac/hwakyung99">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" height="150"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" style="height: 9vw; margin-right:1rem;"/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=hwakyung99&count_private=true&show_icons=true" height="150"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hwakyung99&count_private=true&show_icons=true" style="height: 9vw;"/>
 
 <br /><br />
 
-### 🛠️ Once I've used
+## 🛠️ Once I've used
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,9 +41,9 @@
 
 <br />
 
-### 🗂️ Projects
+## 🗂️ Projects
 
-#### On-Care: 온라인 병원 예약 및 개인 건강 관리 서비스
+### On-Care: 온라인 병원 예약 및 개인 건강 관리 서비스
 > 2025.02.10 ~ 2025.03.12 (4주) | 3명
 
 **프로젝트 개요**
@@ -62,7 +60,7 @@
 
 ---
 
-#### 자취플랜: 
+### 자취플랜: 
 > 2024.12.16 ~ 2025.01.06 (3주) | 4명
 
 **프로젝트 개요**
@@ -75,7 +73,7 @@
 - 지도 읍면동 모달창 프론트엔드
 - 프론트엔드 주요 관리
 
-[🔗 자세히 보기](https://github.com/your-username/community-app)
+[🔗 자세히 보기](https://github.com/hwakyung99/JachuiPlan.git)
 
 ---
 
