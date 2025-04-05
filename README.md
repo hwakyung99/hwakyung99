@@ -7,10 +7,12 @@
 - 💻 
 - 🌱
 
-<a href="https://solved.ac/hwakyung99">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" style="height: 8vw; margin-right:1rem;"/>
-</a>
-<img src="https://github-readme-stats.vercel.app/api?username=hwakyung99&count_private=true&show_icons=true" style="height: 8vw;"/>
+<p>
+  <a href="https://solved.ac/hwakyung99">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" style="height: 9vw; margin-right:1rem;"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hwakyung99&count_private=true&show_icons=true" style="height: 9vw;"/>
+</p>
 
 <br /><br />
 
