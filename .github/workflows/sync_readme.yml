@@ -3,9 +3,9 @@ name: Sync README to Another Repo
 on:
   push:
     paths:
-      - 'JachuiPlan/README.md'   # 이 경로가 변경되었을 때만 동작
+      - 'JachuiPlan/**'   # 이 경로가 변경되었을 때만 동작
     branches:
-      - main                     # main 브랜치에서만 동작 (필요시 변경)
+      - main                     # main 브랜치에서만 동작
 
 jobs:
   sync-readme:
@@ -32,7 +32,7 @@ jobs:
           cp ./JachuiPlan/README.md ../target-repo/README.md
 
           cd ../target-repo
-          git add README.md
+          git add *
 
           if git diff --cached --quiet; then
             echo "No changes to commit."

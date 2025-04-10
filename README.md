@@ -8,7 +8,7 @@
 - 🌱
 
 <p>
-  <a href="https://solved.ac/hwakyung99">
+  <a href="https://solved.ac/hwakyung99" style="text-decoration: none;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwakyung99" alt="solved.ac badge" style="height: 9vw;"/>
   </a>
   &nbsp;
@@ -84,21 +84,21 @@
 >  
 - 
 
-[🔗 자세히 보기](https://github.com/your-username/community-app)
+[🔗 자세히 보기](CowEats/README.md)
 
 ---
 
 ### 빌드매치
 > 
 - 
-[🔗 자세히 보기](https://github.com/your-username/community-app)
+[🔗 자세히 보기](BuildMatch/README.md)
 
 ---
 
 ### 99도씨  
 >  
 - 
-[🔗 자세히 보기](https://github.com/your-username/community-app)
+[🔗 자세히 보기](99celsius/README.md)
 
 <br /><br />
 
