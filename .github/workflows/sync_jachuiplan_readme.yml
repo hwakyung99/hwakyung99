@@ -30,6 +30,7 @@ jobs:
           git clone https://hwakyung99:${PAT}@github.com/hwakyung99/JachuiPlan.git ../target-repo
           # 소스 리포지토리의 README.md를 타겟 리포지토리 루트로 복사
           cp ./JachuiPlan/README.md ../target-repo/README.md
+          cp -r ./JachuiPlan/readme_assets ../target-repo/
 
           cd ../target-repo
           git add *
