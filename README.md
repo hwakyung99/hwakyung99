@@ -1,11 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
+bㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
 
 
 ## 👋 About Me
 > 사용자에 의한, 사용자를 위한 더 나은 서비스를 만드는 백엔드 개발자입니다. 
+> 
+> 데이터 처리, 비즈니스 로직 설계 및 구현, 사용자 중심적 사고를 바탕으로 기술적 해결을 중시합니다.
 
-- 💻 
-- 🌱
+- 💻 Spring Boot, Node.js 기반 REST API 서버 개발
+- 🌱 DB 설계부터 API 구현, 간단한 배포까지 전반적인 백엔드 개발 가능
+- 💪 다수의 실전 프로젝트 통해 프로젝트에 따라 유연한 기술 스택 적용 가능
+- 💬 기획, 프론트엔드와의 협업 및 문서 작성 능력 보유
+
+</br>
 
 <p>
   <a href="https://solved.ac/hwakyung99" rel="noopener noreferrer nofollow">
@@ -129,7 +135,7 @@
 - 이미지 검색 로직 구현
 - WorkManager를 사용해 데일리 하이라이트 생성 및 알림 구현
 
-[🔗 자세히 보기](Nadri/README.md)
+[🔗 자세히 보기](https://github.com/hwakyung99/nadri-back-end.git)
 
 <br /><br />
 
