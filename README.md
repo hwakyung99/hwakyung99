@@ -1,4 +1,4 @@
-bbbㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
 
 
 ## 👋 About Me
