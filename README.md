@@ -85,7 +85,7 @@ bㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color
 
 ---
 
-### 빌드매치
+### 빌드매치: 직업소개소 모바일/PC 겸용 IT 자동화 시스템
 > 2023.01 ~ 2023.03 | ㈜몽키소프트 연구개발팀 사원
 
 **프로젝트 개요**
@@ -96,31 +96,31 @@ bㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color
 - 구인자, 구직자용 웹 앱 프론트엔드 개발
 - FileFond 라이브러리를 활용한 이미지 업로드 풀스택 개발
 - 클라이언트 사이드 렌더링, 페이지네이션과 동적 데이터 로딩 구현
-- 문서화: API 문서, 카탈로그, 리플렛,  사용자 매뉴얼 작성
+- 문서화: API 문서, 카탈로그, 리플렛, 사용자 매뉴얼 작성
 
 [🔗 자세히 보기](BuildMatch/README.md)
 
 ---
 
-### 99도씨  
+### 99도씨: 배달용기 수거 서비스
 >  2021.06 ~ 2021.08 | ㈜얼그레잇 개발팀 계약직
 
 **프로젝트 개요**
-- 배달용기 수거 웹 서비스, 손님, 피커, 관리자 페이지 제공
+- 배달용기 수거 웹 서비스로 손님, 피커, 관리자 페이지 제공
 - 사용 기술: Node.js, JavaScript, EJS, MySQL, GCP
   
 **역할**
 - 손님, 피커, 관리자 기능 풀스택 개발
-- Node.js Express 기반 REST API 서버 개발
-- EJS 기반 서버사이드 렌더링 구현
-- 식별 번호 체계, 논리적 삭제 도입
+- Node.js Express 기반 REST API 서버 개발, EJS 기반 서버사이드 렌더링 구현
+- 배달용기 식별 번호 체계, 논리적 삭제 도입
+- 이벤트 스케줄러로 배달용기 상태 자동 업데이트
 - 도메인 구매 및 Google 관리형 SSL 적용한 GCP 배포
 
 [🔗 자세히 보기](99celsius/README.md)
 
 ---
 
-### 나드리  
+### 나드리: 일상 기록을 위한 사진 정리 안드로이드 앱
 > 2022.01 ~ 2022.12 | 팀 프로젝트 3명
 
 **프로젝트 개요**
@@ -177,5 +177,3 @@ bㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color
 
 > 꾸준히 배우고, 협업하며 성장하는 개발자가 되겠습니다.  
 > 읽어주셔서 감사합니다 🙏
-
-
