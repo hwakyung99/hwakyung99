@@ -1,10 +1,11 @@
-bㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
+bbbㅠ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=HwaKyung's%20portfolio&fontAlignY=36&fontSize=30&section=header&reversal=false&textBg=false&fontColor=FFF)
 
 
 ## 👋 About Me
-> 사용자에 의한, 사용자를 위한 더 나은 서비스를 만드는 백엔드 개발자입니다. 
-> 
+> **사용자에 의한, 사용자를 위한 더 나은 서비스를 만드는 백엔드 개발자입니다.** </br>
 > 데이터 처리, 비즈니스 로직 설계 및 구현, 사용자 중심적 사고를 바탕으로 기술적 해결을 중시합니다.
+
+</br>
 
 - 💻 Spring Boot, Node.js 기반 REST API 서버 개발
 - 🌱 DB 설계부터 API 구현, 간단한 배포까지 전반적인 백엔드 개발 가능
