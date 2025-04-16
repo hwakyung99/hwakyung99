@@ -29,15 +29,12 @@ jobs:
           # 타겟 저장소를 로컬에 복제
           git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-back-end.git ../backend-reop
           git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-front-end.git ../frontend-reop
-          git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-tensorflow_works.git ../tensorflow-reop
 
           # 소스 리포지토리의 README.md를 타겟 리포지토리 루트로 복사
           cp ./Nadri/README.md ../backend-reop/README.md
           cp ./Nadri/README.md ../frontend-reop/README.md
-          cp ./Nadri/README.md ../tensorflow-reop/README.md
           cp -r ./Nadri/readme_assets ../backend-reop/
           cp -r ./Nadri/readme_assets ../frontend-reop/
-          cp -r ./Nadri/readme_assets ../tensorflow-reop/
 
           # backend-reop 커밋 및 푸시
           cd ../backend-reop
@@ -51,16 +48,6 @@ jobs:
 
           # frontend-reop 커밋 및 푸시
           cd ../frontend-reop
-          git add *
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Sync README from hwakyung99 repository"
-            git push origin main
-          fi
-
-          # tensorflow-reop 커밋 및 푸시
-          cd ../tensorflow-reop
           git add *
           if git diff --cached --quiet; then
             echo "No changes to commit."
