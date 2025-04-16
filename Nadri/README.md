@@ -57,6 +57,7 @@
 ![Azure CosmosDB for MongoDB](https://img.shields.io/badge/Azure_CosmosDB_for_MongoDB-007FFF?style=flat&logoColor=white)
 
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=AmazonS3&logoColor=white)
+![Amazon_Rekognition](https://img.shields.io/badge/Amazon_Rekognition-569A31?style=flat&logoColor=white)
 
 </br>
 
