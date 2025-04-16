@@ -56,6 +56,8 @@
 ![Azure App Service](https://img.shields.io/badge/Azure_App_Service-007FFF?style=flat&logoColor=white)
 ![Azure CosmosDB for MongoDB](https://img.shields.io/badge/Azure_CosmosDB_for_MongoDB-007FFF?style=flat&logoColor=white)
 
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=AmazonS3&logoColor=white)
+
 </br>
 
 ## 📊 ERD

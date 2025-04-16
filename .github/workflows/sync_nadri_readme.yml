@@ -28,7 +28,7 @@ jobs:
         run: |
           # 타겟 저장소를 로컬에 복제
           git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-back-end.git ../backend-reop
-          git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-frontend-end.git ../frontend-reop
+          git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-front-end.git ../frontend-reop
           git clone https://hwakyung99:${PAT}@github.com/hwakyung99/nadri-nadri-tensorflow_works.git ../tensorflow-reop
           
           # 소스 리포지토리의 README.md를 타겟 리포지토리 루트로 복사
