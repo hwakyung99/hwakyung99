@@ -104,6 +104,24 @@
 
 ---
 
+### 나드리: 일상 기록을 위한 사진 정리 안드로이드 앱
+> 2022.01 ~ 2022.12 | 팀 프로젝트 3명
+
+**프로젝트 개요**
+- SNS와 블로그를 장점을 차용해 아날로그 사진첩에 디지털 기술을 접목해 사진으로 일상을 쉽게 기록하고 정리할 수 있는 안드로이드 앱
+- 사용 기술: Node.js, JavaScript, Android, Java, MongoDB, Azure
+
+**역할**
+- Node.js Express 기반 REST API 서버 개발, DB 설계
+- Azure App Service, Azure CosmosDB for MongoDB를 사용해 배포
+- Volley 라이브러리로 클라이언트 통신 구현
+- 이미지 검색 로직 구현
+- WorkManager를 사용해 데일리 하이라이트 생성 및 알림 구현
+
+[🔗 자세히 보기](https://github.com/hwakyung99/nadri-back-end.git)
+
+---
+
 ### 99도씨: 배달용기 수거 서비스
 >  2021.06 ~ 2021.08 | ㈜얼그레잇 개발팀 계약직
 
@@ -119,25 +137,6 @@
 - 도메인 구매 및 Google 관리형 SSL 적용한 GCP 배포
 
 [🔗 자세히 보기](99celsius/README.md)
-
----
-
-### 나드리: 일상 기록을 위한 사진 정리 안드로이드 앱
-> 2022.01 ~ 2022.12 | 팀 프로젝트 3명
-
-**프로젝트 개요**
-- SNS와 블로그를 장점을 차용해 아날로그 사진첩에 디지털 기술을 접목해 사진으로 일상을 쉽게 기록하고 정리할 
-수 있는 안드로이드 앱
-- 사용 기술: Node.js, JavaScript, Android, Java, MongoDB, Azure
-
-**역할**
-- Node.js Express 기반 REST API 서버 개발, DB 설계
-- Azure App Service, Azure CosmosDB for MongoDB를 사용해 배포
-- Volley 라이브러리로 클라이언트 통신 구현
-- 이미지 검색 로직 구현
-- WorkManager를 사용해 데일리 하이라이트 생성 및 알림 구현
-
-[🔗 자세히 보기](https://github.com/hwakyung99/nadri-back-end.git)
 
 <br /><br />
 
