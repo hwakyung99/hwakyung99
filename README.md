@@ -36,110 +36,14 @@
 
 ## 🗂️ Projects
 
-### On-Care: 온라인 병원 예약 및 개인 건강 관리 서비스
-> 2025.02.10 ~ 2025.03.12 (4주) | 팀 프로젝트 3명
+- [On-Care: 온라인 병원 예약 및 개인 건강 관리 서비스](OnCare/README.md)
+- [자취플랜: 전월세 평균가 및 자취 커뮤니티](https://github.com/hwakyung99/JachuiPlan.git)
+- [카우이츠: 조사료 생산일지 및 유통 관리 앱](CowEats/README.md)
+- [빌드매치: 직업소개소 모바일/PC 겸용 IT 자동화 시스템](BuildMatch/README.md)
+- [나드리: 일상 기록을 위한 사진 정리 안드로이드 앱](https://github.com/hwakyung99/nadri-back-end.git)
+- [99도씨: 배달용기 수거 서비스](99celsius/README.md)
 
-**프로젝트 개요**
-- 기존 병원 예약 시스템의 불편함을 해소하고 사용자 중심의 개인 맞춤형 건강 관리 서비스 제공하기 위한 프로젝트
-- 주요 기능: 병원 찾기, 온라인 병원 예약, 실시간 채팅, 건강 검진 결과 시각화
-- 사용 기술: Spring Boot, React, AWS, MySQL
-
-**역할: 팀장**
-- 병원 찾기, 병원 예약, 간편 예약, 병원 등록 기능 설계 및 구현
-- 대용량 엑셀 병원 정보 데이터(약 7만 개의 행)를 효율적으로 읽기 위해 스트리밍 방식 도입
-- JDBC Template을 이용한 Batch Insert 방식 도입으로 데이터 삽입 95% 이상 성능 향상
-- 예약 동시성 문제 해결을 위해 비관적 락 및 트랜잭션 적용
-
-[🔗 자세히 보기](OnCare/README.md)
-
----
-
-### 자취플랜: 전월세 평균가 및 자취 커뮤니티
-> 2024.12.16 ~ 2025.01.06 (3주) | 팀 프로젝트 4명
-
-**프로젝트 개요**
-- 자취를 처음 시작하는 2-30대를 위해 서울특별시의 전월세 정보를 한눈에 확인하고, 자취 생활 커뮤니티를 제공하기 위한 웹 프로젝트
-- 주요 기능: 서울특별시 전월세 평균가 지도 및 그래프 시각화, 지역 스크랩, 자취 커뮤니티
-- 사용 기술: Spring Boot, React, Thymeleaf, Oracle
-
-**역할**
-- 게시글 상세페이지, 댓글 기능
-- 지역 스크랩 기능
-- 지도 읍면동 모달창 프론트엔드
-- 프론트엔드 주요 관리
-
-[🔗 자세히 보기](https://github.com/hwakyung99/JachuiPlan.git)
-
----
-
-### 카우이츠: 조사료 생산일지 및 유통 관리 앱
->  2023.07 ~ 2023.08 | ㈜몽키소프트 연구개발팀 사원
-
-**프로젝트 개요**
-- 농가(조사료 구매자), 조사료 생산자, 작업자를 위한 조사료 작업, 유통 관리 앱
-- 사용 기술: Spring Boot, React, MySQL
-
-**역할**
-- React & Spring Boot 기반 OAuth 로그인 구현
-- JWT 기반 인증 및 보안 강화
-
-[🔗 자세히 보기](CowEats/README.md)
-
----
-
-### 빌드매치: 직업소개소 모바일/PC 겸용 IT 자동화 시스템
-> 2023.01 ~ 2023.03 | ㈜몽키소프트 연구개발팀 사원
-
-**프로젝트 개요**
-- 건설현장 인력사무소의 업무 프로세스를 디지털화하여 효율적인 인력 매칭 및 관리를 지원하는 웹/웹앱
-- 사용 기술: Node.js, TypeScript, Html, CSS, JavaScript, MySQL
-  
-**역할**
-- 구인자, 구직자용 웹 앱 프론트엔드 개발
-- FileFond 라이브러리를 활용한 이미지 업로드 풀스택 개발
-- 클라이언트 사이드 렌더링, 페이지네이션과 동적 데이터 로딩 구현
-- 문서화: API 문서, 카탈로그, 리플렛, 사용자 매뉴얼 작성
-
-[🔗 자세히 보기](BuildMatch/README.md)
-
----
-
-### 나드리: 일상 기록을 위한 사진 정리 안드로이드 앱
-> 2022.01 ~ 2022.12 | 팀 프로젝트 3명
-
-**프로젝트 개요**
-- SNS와 블로그를 장점을 차용해 아날로그 사진첩에 디지털 기술을 접목해 사진으로 일상을 쉽게 기록하고 정리할 수 있는 안드로이드 앱
-- 사용 기술: Node.js, JavaScript, Android, Java, MongoDB, Azure
-
-**역할**
-- Node.js Express 기반 REST API 서버 개발, DB 설계
-- Azure App Service, Azure CosmosDB for MongoDB를 사용해 배포
-- Volley 라이브러리로 클라이언트 통신 구현
-- 이미지 검색 로직 구현
-- WorkManager를 사용해 데일리 하이라이트 생성 및 알림 구현
-
-[🔗 자세히 보기](https://github.com/hwakyung99/nadri-back-end.git)
-
----
-
-### 99도씨: 배달용기 수거 서비스
->  2021.06 ~ 2021.08 | ㈜얼그레잇 개발팀 계약직
-
-**프로젝트 개요**
-- 배달용기 수거 웹 서비스로 손님, 피커, 관리자 페이지 제공
-- 사용 기술: Node.js, JavaScript, EJS, MySQL, GCP
-  
-**역할**
-- 손님, 피커, 관리자 기능 풀스택 개발
-- Node.js Express 기반 REST API 서버 개발, EJS 기반 서버사이드 렌더링 구현
-- 배달용기 식별 번호 체계, 논리적 삭제 도입
-- 이벤트 스케줄러로 배달용기 상태 자동 업데이트
-- 도메인 구매 및 Google 관리형 SSL 적용한 GCP 배포
-
-[🔗 자세히 보기](99celsius/README.md)
-
-<br /><br />
-
+<br />
 
 ## 🛠️ Once I've used
 
@@ -172,9 +76,8 @@
 ## 📫 Contact
 
 - 📧 Email: hwakyung5531@gmail.com
-- 📁 Resume: [PDF](https://drive.google.com/file/d/1AL3LAeCKHBLgQ-P3lE_YsSdkBsLzIcWT/view?usp=sharing)
 
-<br /><br />
+<br />
 
 > 꾸준히 배우고, 협업하며 성장하는 개발자가 되겠습니다.  
 > 읽어주셔서 감사합니다 🙏
